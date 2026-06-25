@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This repository contains data analytics project designed to optimize hotel operations, evaluate cancellation risks, and maximize revenue realization. By combining raw data processing in MySQL with an interactive executive dashboard in Power BI, this project bridges the gap between raw backend data and strategic business intelligence.
 
-![Dashboard Preview](dashboard_image.png)
+![Dashboard Preview](dashboardImage.png)
 
 ---
 
@@ -45,6 +45,6 @@ Before building the visual layer, a thorough backend analysis was conducted in M
  ┣ 📜 README.md                         <-- Project documentation & business insights
  ┣ 📜 deep_dive_analysis.sql            <-- MySQL data cleaning & exploratory queries
  ┣ 📊 dashboard.pbix                    <-- Interactive Power BI portfolio file
- ┣ 🖼️ dashboard_image.png               <-- High-resolution dashboard image for GitHub
+ ┣ 🖼️ dashboardImage.png                <-- High-resolution dashboard image for GitHub
  ┣ 📄 cleaned_hotel_bookings.csv        <-- Core dataset compiled from Task 1 & Task 2
 
